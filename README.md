@@ -1,4 +1,4 @@
-# Another Application
+# Another Application / Vielä yksi hakemus
 Collect the missing notes of your CV and win the game!
 
 Quick Start
