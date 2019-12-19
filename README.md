@@ -7,7 +7,7 @@ Quick Start
 3. Open the game
 
 PS. If you are on mac or linux I haven't tested it. Sorry for any inconvenience.
-
+<br/><br/>
 
 Kerää kaikki hakemuksen palaset ja voita peli!
 
